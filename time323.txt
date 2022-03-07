@@ -1,0 +1,90 @@
+//seiriakos
+o seiriakos xronos einai 10.918567 seconds
+o seiriakos xronos einai 10.934556 seconds
+o seiriakos xronos einai 11.055226 seconds
+o seiriakos xronos einai 10.972537 seconds
+o seiriakos xronos einai 11.110515 seconds
+
+//-O0
+Me 1 threads o xronos einai 3.471960 seconds
+Me 1 threads o xronos einai 3.322617 seconds
+Me 1 threads o xronos einai 3.352345 seconds
+Me 1 threads o xronos einai 3.527200 seconds
+Me 1 threads o xronos einai 3.471224 seconds
+
+//-O3
+Me 1 threads o xronos einai 3.455325 seconds
+Me 1 threads o xronos einai 3.428319 seconds
+Me 1 threads o xronos einai 3.421159 seconds
+Me 1 threads o xronos einai 3.355516 seconds
+Me 1 threads o xronos einai 3.331019 seconds
+
+//-O0
+Me 2 threads o xronos einai 3.311487 seconds
+Me 2 threads o xronos einai 3.316424 seconds
+Me 2 threads o xronos einai 3.340010 seconds
+Me 2 threads o xronos einai 3.513719 seconds
+Me 2 threads o xronos einai 3.446296 seconds
+
+//-O3
+Me 2 threads o xronos einai 3.324384 seconds
+Me 2 threads o xronos einai 3.442109 seconds
+Me 2 threads o xronos einai 3.448319 seconds
+Me 2 threads o xronos einai 3.309752 seconds
+Me 2 threads o xronos einai 3.314091 seconds
+
+//-O0
+Me 4 threads o xronos einai 3.405060 seconds
+Me 4 threads o xronos einai 3.473738 seconds
+Me 4 threads o xronos einai 3.458920 seconds
+Me 4 threads o xronos einai 3.285128 seconds
+Me 4 threads o xronos einai 3.418604 seconds
+
+//-O3
+Me 4 threads o xronos einai 3.284955 seconds
+Me 4 threads o xronos einai 3.400035 seconds
+Me 4 threads o xronos einai 3.372121 seconds
+Me 4 threads o xronos einai 3.306248 seconds
+Me 4 threads o xronos einai 3.457114 seconds
+
+//-O0
+Me 5 threads o xronos einai 3.434865 seconds
+Me 5 threads o xronos einai 3.391437 seconds
+Me 5 threads o xronos einai 3.390841 seconds
+Me 5 threads o xronos einai 3.403959 seconds
+Me 5 threads o xronos einai 3.475278 seconds
+
+//-O3
+Me 5 threads o xronos einai 3.138741 seconds
+Me 5 threads o xronos einai 3.158560 seconds
+Me 5 threads o xronos einai 3.279976 seconds
+Me 5 threads o xronos einai 3.265482 seconds
+Me 5 threads o xronos einai 3.443296 seconds
+
+//-O0
+Me 6 threads o xronos einai 3.421172 seconds
+Me 6 threads o xronos einai 3.410411 seconds
+Me 6 threads o xronos einai 3.565775 seconds
+Me 6 threads o xronos einai 3.539903 seconds
+Me 6 threads o xronos einai 3.442878 seconds
+
+//-O3
+Me 6 threads o xronos einai 3.372196 seconds
+Me 6 threads o xronos einai 3.371962 seconds
+Me 6 threads o xronos einai 3.344737 seconds
+Me 6 threads o xronos einai 3.350274 seconds
+Me 6 threads o xronos einai 3.299367 seconds
+
+//-O0
+Me 8 threads o xronos einai 3.377504 seconds
+Me 8 threads o xronos einai 3.306788 seconds
+Me 8 threads o xronos einai 3.469545 seconds
+Me 8 threads o xronos einai 3.364390 seconds
+Me 8 threads o xronos einai 3.294705 seconds
+
+//-O3
+Me 8 threads o xronos einai 3.231183 seconds
+Me 8 threads o xronos einai 3.209415 seconds
+Me 8 threads o xronos einai 3.238992 seconds
+Me 8 threads o xronos einai 3.313381 seconds
+Me 8 threads o xronos einai 3.227131 seconds
